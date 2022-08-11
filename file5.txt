@@ -1,4 +1,2 @@
 file fifth created in bugfix
 second line added in file5
-third line added
-after unstaged added new line
