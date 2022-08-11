@@ -1,1 +1,3 @@
 this is fourth file
+new line added in file4
+reverted from staged area to working area before commit
